@@ -14,6 +14,8 @@
 * bundle third-party packages into vendor.js and vendor.css, so you needn't require them in your file. Third-party packages included:
     * jquery
 
+> In order to make the browser open automatically, I use the CodeYellowBV/webpack-dev-server#98fd2f45b4a81 version of webpack-dev-server, which is not a published version. You can replace it with a stable version.
+
 
 ## Getting Started
 
